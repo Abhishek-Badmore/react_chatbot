@@ -33,8 +33,8 @@ const Profile = () => {
 
 
     isAuthenticated ? (<div style={{
-      // backgroundColor: '#376B7E',
-      backgroundImage: ('https://dlt.mobi/wp-content/uploads/2022/03/Stellantis-community-logo-3.png'),
+      backgroundColor: '#376B7E',
+      //backgroundImage: ('https://dlt.mobi/wp-content/uploads/2022/03/Stellantis-community-logo-3.png'),
       padding: "7px",
       borderRadius: "3px",
       display: "flex",
